@@ -1,0 +1,23 @@
+{
+  "name": "simple-project",
+  "version": "1.0.0",
+  "description": "This is a simple website using Node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "js",
+    "html",
+    "css",
+    "bootstrap"
+  ],
+  "author": "Ahsan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
